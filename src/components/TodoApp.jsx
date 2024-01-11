@@ -9,7 +9,7 @@ import Loading from "../pages/Loading";
 function TodoApp() {
   //const apiUrl = 'https://easy-erin-clownfish-yoke.cyclic.app/todos';
   //const apiUrl = 'http://localhost:3000/todos';
-  const apiUrl = 'https://json-todo-server.onrender.com/todos'
+  const apiUrl = 'https://localhost:4000/todos'
 
   const [data, setData] = useState([]);
   const [isLoading, setIsLoading] = useState(true);
