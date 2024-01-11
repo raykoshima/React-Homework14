@@ -1,0 +1,15 @@
+{
+  "todos": [
+    {
+      "todo": "da",
+      "completed": false,
+      "user": 1,
+      "id": 101
+    },
+    {
+      "todo": "pasin",
+      "completed": true,
+      "id": 102
+    }
+  ]
+}
